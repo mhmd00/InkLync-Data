@@ -1,0 +1,20 @@
+{
+    "logo_url": "https://raw.githubusercontent.com/mhmd00/InkLync-Data/main/app_logo_trans.png",
+    "buttons": {
+        "sign_in": "Sign In",
+        "sign_up": "Sign Up",
+        "continue_as_guest": "Continue as Guest",
+        "forgot_password": "Forgot Password?",
+        "create_account": "Create Account",
+        "sign_in_with_google": "Sign in with Google",
+        "sign_in_with_facebook": "Sign in with Facebook"
+    },
+    "auth_errors": {
+        "invalid_email": "Invalid email address.",
+        "wrong_password": "Incorrect password.",
+        "user_not_found": "No account found with that email.",
+        "network_error": "Network error. Please try again.",
+        "weak_password": "The password is too weak.",
+        "email_already_in_use": "An account already exists with this email."
+    }
+}
