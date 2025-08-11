@@ -10,7 +10,6 @@
     "sign_in_with_facebook": "Sign in with Facebook",
     "skip": "Skip"
   },
-  "tagline": "Connect. Create. Code.",
   "auth_errors": {
     "invalid_email": "Invalid email address.",
     "wrong_password": "Incorrect password.",
@@ -18,5 +17,6 @@
     "network_error": "Network error. Please try again.",
     "weak_password": "The password is too weak.",
     "email_already_in_use": "An account already exists with this email."
-  }
+  },
+  "tagline": "Connect. Create. Code."
 }
