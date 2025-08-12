@@ -1,5 +1,6 @@
 {
   "logo_url": "https://raw.githubusercontent.com/mhmd00/InkLync-Data/main/app_logo_trans.png",
+  "logo_updated": true,
   "buttons": {
     "sign_in": "Sign In",
     "sign_up": "Sign Up",
@@ -18,5 +19,15 @@
     "weak_password": "The password is too weak.",
     "email_already_in_use": "An account already exists with this email."
   },
-  "tagline": "Connect. Create. Code."
+  "tagline": "Connect. Create. Code.",
+  "tagline_updated": false,
+  "settings": {
+    "maintenance_mode": false,
+    "force_update": false,
+    "feature_flags": {
+      "collaborative_layers": true,
+      "block_coding": true,
+      "autism_features": true
+    }
+  }
 }
