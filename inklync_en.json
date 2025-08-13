@@ -19,9 +19,7 @@
   "tagline_updated": false,
   "onboarding": {
     "do_not_have_account": "Do not have an account? Log in",
-    "terms_and_privacy": "By clicking log in, you agree with Terms of Service and Privacy Policy",
-    "terms_url": "https://example.com/terms",
-    "privacy_url": "https://example.com/privacy"
+    "terms_and_privacy": "By clicking log in, you agree with Terms of Service and Privacy Policy"
   },
   "settings": {
     "maintenance_mode": false,
@@ -31,10 +29,5 @@
       "block_coding": true,
       "autism_features": true
     }
-  },
-  "icons": {
-    "email_logo": "assets/images/logos/email_logo.png",
-    "gmail_logo": "assets/images/logos/gmail_logo.png",
-    "facebook_logo": "assets/images/logos/facebook_logo.png"
   }
 }
