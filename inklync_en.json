@@ -29,5 +29,10 @@
       "block_coding": true,
       "autism_features": true
     }
+  },
+  "icons": {
+    "email_logo": "assets/images/logos/email_logo.png",
+    "gmail_logo": "assets/images/logos/gmail_logo.png",
+    "facebook_logo": "assets/images/logos/facebook_logo.png"
   }
 }
