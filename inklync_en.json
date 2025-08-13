@@ -2,11 +2,7 @@
   "logo_url": "https://raw.githubusercontent.com/mhmd00/InkLync-Data/main/app_logo_trans.png",
   "logo_updated": true,
   "buttons": {
-    "sign_in": "Sign In",
-    "sign_up": "Sign Up",
-    "continue_as_guest": "Continue as Guest",
-    "forgot_password": "Forgot Password?",
-    "create_account": "Create Account",
+    "sign_up": "Sign up with email",
     "sign_in_with_google": "Continue with Gmail",
     "sign_in_with_facebook": "Continue with Facebook",
     "skip": "Skip"
@@ -22,8 +18,8 @@
   "tagline": "Connect. Create. Code.",
   "tagline_updated": false,
   "onboarding": {
-    "already_have_account": "Already have an account? Sign in",
-    "terms_and_privacy": "By clicking login, you agree with Terms of Service and Privacy Policy"
+    "do_not_have_account": "Do not have an account? Log in",
+    "terms_and_privacy": "By clicking log in, you agree with Terms of Service and Privacy Policy"
   },
   "settings": {
     "maintenance_mode": false,
