@@ -27,7 +27,7 @@
   },
   "tagline": "Connect. Create. Code.",
   "onboarding": {
-    "do_not_have_account": "Do not have an account? ",
+    "do_not_have_account": "Already have an account? ",
     "terms_and_privacy": "By clicking log in, you agree with Terms of Service and Privacy Policy",
     "terms_url": "https://example.com/terms",
     "privacy_url": "https://example.com/privacy"
@@ -47,4 +47,5 @@
     "facebook_logo": "assets/images/logos/facebook_logo.png"
   }
 }
+
 
