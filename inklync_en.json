@@ -8,22 +8,22 @@
     "skip": "Skip"
   },
   "auth_errors": {
-    "empty_email": "📧 Oops! You forgot your email.",
-    "empty_password": "🔑 Password, please!",
-    "both_empty": "🙈 Nothing here yet… type something!",
-    "invalid_email_format": "📮 Hmm… that doesn’t look like an email.",
-    "extra_spaces": "🚫 No extra spaces, please.",
-    "email_too_short": "🤏 That email’s too short.",
-    "email_too_long": "📏 Whoa, that email’s super long!",
-    "restricted_characters": "⚠️ Only normal email letters, numbers, and symbols please.",
-    "user_not_found": "🤔 We don’t know this email yet. Wanna sign up?",
-    "wrong_password": "🙃 Wrong email or password. Try again?",
-    "user_disabled": "🚷 This account is taking a little nap. Contact us to wake it up.",
-    "too_many_requests": "🛑 Whoa! Too many tries. Take a 15-minute snack break 🍪",
-    "operation_not_allowed": "🚫 Signing in with Email and Password is not enabled.",
-    "network_request_failed": "📡 No WiFi? No problem — reconnect and try again!",
-    "unknown_error": "😵 Oops! Something went wonky. Try again."
-  },
+  "empty_email": "📧 Oops! You forgot your email.",
+  "empty_password": "🔑 Password, please!",
+  "both_empty": "🙈 Nothing here yet… type something!",
+  "invalid_email_format": "📮 Hmm… that doesn’t look like an email.",
+  "extra_spaces": "🚫 No extra spaces, please.",
+  "email_too_short": "🤏 That email’s too short.",
+  "email_too_long": "📏 Whoa, that email’s super long!",
+  "restricted_characters": "⚠️ Only normal email letters, numbers, and symbols please.",
+  "user_not_found": "🤔 We don’t know this email yet. Wanna sign up?",
+  "wrong_password": "🙃 Wrong email or password. Try again?",
+  "user_disabled": "🚷 This account is taking a little nap. Contact us to wake it up.",
+  "too_many_requests": "🛑 Whoa! Too many tries. Take a quick break for 30 seconds ☕",
+  "operation_not_allowed": "🚫 Signing in with Email and Password is not enabled.",
+  "network_request_failed": "📡 No WiFi? No problem — reconnect and try again!",
+  "unknown_error": "😵 Oops! Something went wonky. Try again."
+},
   "tagline": "Connect. Create. Code.",
   "tagline_updated": false,
   "onboarding": {
@@ -47,3 +47,4 @@
     "facebook_logo": "assets/images/logos/facebook_logo.png"
   }
 }
+
