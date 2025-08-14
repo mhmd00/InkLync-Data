@@ -1,6 +1,6 @@
 {
   "logo_url": "https://raw.githubusercontent.com/mhmd00/InkLync-Data/main/app_logo_trans.png",
-  "logo_updated": true,
+  "updated": true, // Single flag to decide if local should be overridden
   "buttons": {
     "sign_up": "Sign up with email",
     "sign_in": "Log in",
@@ -26,7 +26,6 @@
     "unknown_error": "😵 Oops! Something went wonky. Try again."
   },
   "tagline": "Connect. Create. Code.",
-  "tagline_updated": false,
   "onboarding": {
     "do_not_have_account": "Do not have an account? ",
     "terms_and_privacy": "By clicking log in, you agree with Terms of Service and Privacy Policy",
