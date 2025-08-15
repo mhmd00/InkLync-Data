@@ -6,7 +6,15 @@
     "sign_in": "Log In",
     "sign_in_with_google": "Continue with Google",
     "sign_in_with_facebook": "Continue with Facebook",
-    "skip": "Skip Now"
+    "skip": "Skip Now",
+    "create_post": "Post Now",
+    "save_draft": "Save as Draft",
+    "search": "Search Now",
+    "send_message": "Send Message",
+    "start_activity": "Begin Activity",
+    "view_report": "See Report",
+    "edit_profile": "Update Profile",
+    "logout": "Sign Out"
   },
   "auth_errors": {
     "empty_email": "📧 Please enter your email!",
@@ -28,10 +36,30 @@
   "tagline": "Connect, Create, Innovate!",
   "hint": {
     "email": "Your email here",
-    "password": "Your password here"
+    "password": "Your password here",
+    "search": "Find users, posts, or events",
+    "message": "Write or draw your message",
+    "bio": "Share your story"
   },
   "label": {
-    "stay_logged_in": "Keep me logged in"
+    "stay_logged_in": "Keep me logged in",
+    "creative_tools": "Create Something New",
+    "narration": "Add Narration",
+    "caption": "Write Caption",
+    "coding": "Code Animation",
+    "visibility": "Select Visibility",
+    "public": "Everyone",
+    "school_only": "School Only",
+    "creative_chain": "Creative Chain",
+    "trending": "What's Hot",
+    "new_posts": "Latest Posts",
+    "school_events": "Events",
+    "activities": "Fun Activities",
+    "reports": "Progress Reports",
+    "bio": "About You",
+    "posts": "Your Posts",
+    "chains": "Your Chains",
+    "liked": "Favorites"
   },
   "onboarding": {
     "do_not_have_account": "Have an account? ",
