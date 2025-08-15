@@ -57,8 +57,16 @@
     "facebook_logo_updated": true,
     "app_logo_updated": true
   },
-  "feed": {
-    "creative_chain": "Creative Chain",
-    "explore": "Explore"
+  "feeds": {
+    "creative_chain": "Creative Chain 🖌️",
+    "explore": "Explore 🌍"
+  },
+  "nav": {
+    "home": "Home",
+    "create": "Create",
+    "explore": "Explore",
+    "messages": "Messages",
+    "inklync_sense": "Inklync Sense",
+    "profile": "Profile"
   }
 }
