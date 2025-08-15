@@ -56,5 +56,9 @@
     "facebook_logo": "https://raw.githubusercontent.com/mhmd00/InkLync-Data/main/facebook_logo.png",
     "facebook_logo_updated": true,
     "app_logo_updated": true
+  },
+  "feed": {
+    "creative_chain": "Creative Chain",
+    "explore": "Explore"
   }
 }
